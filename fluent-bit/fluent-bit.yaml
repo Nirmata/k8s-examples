@@ -143,7 +143,7 @@ spec:
           name: "fluent-bit-config"
       containers:
       - name: "fluent-bit"
-        image: "fluent/fluent-bit:1.5.1"
+        image: "fluent/fluent-bit:1.5.2"
         command: []
         args: []
         imagePullPolicy: "Always"
